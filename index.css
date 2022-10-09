@@ -1,4 +1,5 @@
-html, body {
+html,
+body {
     height: 100%;
     margin: 0;
 }
@@ -12,4 +13,5 @@ body {
 
 h1 {
     font-size: 5rem;
+    font-family: "Sawarabi Mincho";
 }
