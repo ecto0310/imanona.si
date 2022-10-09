@@ -1,4 +1,12 @@
-html, body {
+@font-face {
+    font-family: 'Sawarabi Mincho';
+    font-style: normal;
+    font-weight: 400;
+    src: url(https://fonts.gstatic.com/s/sawarabimincho/v17/8QIRdiDaitzr7brc8ahpxt6GcIJTKMBf4bRxM7U3mLMni-CmriA4Ykh0mIs.5.woff2) format('woff2');
+}
+
+html,
+body {
     height: 100%;
     margin: 0;
 }
